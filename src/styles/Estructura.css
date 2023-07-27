@@ -1,0 +1,53 @@
+.es-titulo{
+    color: black;
+    background-color: rgb(227, 230, 230);
+    display: flex;
+    margin-top: 70px;
+    border-radius: 0% !important;
+}
+
+
+
+.btn{
+    background-color: rgb(219, 170, 8) !important;
+    cursor: default !important;
+    font-weight: bold !important;
+}
+
+.parrafos{
+    background-color: rgb(227, 230, 230);
+}
+
+.card{
+    background-color: rgb(227, 230, 230) !important;
+}
+
+.card-title{
+    display: flex;
+    margin-left: 25px;
+    color: rgb(227, 230, 230);
+   
+}
+
+.card-text{
+    display: flex;
+    margin-left: 110px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(227, 230, 230);
+    
+}
+
+.t{
+    width: 5px;
+    border-left: 1px solid black;
+    height: 50px;
+    display: flex;
+    margin-left: 15px !important;
+    left: 50%;
+    margin-left: 3px;
+    top: 200px !important;
+}
+
+
+  
+  
